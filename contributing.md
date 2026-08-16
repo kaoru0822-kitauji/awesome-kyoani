@@ -64,6 +64,14 @@ A resource should have a clear and verifiable connection to Kyoto Animation. Pre
 
 Do not expand the list to unrelated works simply because a former or current Kyoto Animation creator participated in them. The resource itself should improve understanding of Kyoto Animation, its productions, its creators, or its surrounding community.
 
+## Work-Specific Resources
+
+Use the thematic sections for studio-wide resources and resources that genuinely span multiple Kyoto Animation works. A resource dedicated primarily to one production or franchise belongs under that title in **Works**.
+
+Do not duplicate the same resource in both a thematic section and a work section. When a resource uses one production as a case study but its main value is broader research into Kyoto Animation's production methods, staff, or institutional culture, keep it in the relevant thematic section.
+
+Create a new work subsection only when at least one strong dedicated resource is ready to include. Do not pre-create an empty catalog of every Kyoto Animation title. A substantial independently maintained Awesome list can serve as the anchor resource for a work subsection.
+
 ## Official and Community Resources
 
 Prefer canonical official URLs when an official resource is the subject of an entry. Community resources can be included when they provide substantial independent value such as research, indexing, preservation, tooling, or documentation.
