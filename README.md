@@ -20,6 +20,7 @@ Kyoto Animation is a Japanese animation studio producing television series, film
   - [Hyouka](#hyouka)
   - [K-On!](#k-on)
   - [Love, Chunibyo & Other Delusions](#love-chunibyo--other-delusions)
+  - [Liz and the Blue Bird](#liz-and-the-blue-bird)
   - [Lucky Star](#lucky-star)
   - [Miss Kobayashi's Dragon Maid](#miss-kobayashis-dragon-maid)
   - [Nichijou](#nichijou)
@@ -139,8 +140,18 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 - [Tatsuya Ishihara Chuunibyou Series Interview](https://ultimatemegax.wordpress.com/2013/09/15/bonet-tatsuya-ishihara-chuunibyou-series-interview-translation-spoiler-part/) - A translated interview with director Tatsuya Ishihara about visual processing, fantasy-action staging, sound mixing, adaptation changes, and the transition from the first season into later projects.
 
+### Liz and the Blue Bird
+
+- [Dis/joint: Unification of Sound, Music, Narrative, and Animation in Liz and the Blue Bird](https://doi.org/10.5749/mech.13.2.0026) - Paul Ocone's 2021 *Mechademia: Second Arc* article examining the film through the integration of sound, music, narrative, and animation.
+- [Kensuke Ushio Interview on Liz and the Blue Bird](https://www.lisani.jp/0000075376/) - A Japanese-language interview with the composer on the film's concept work, decalcomania-derived score, recordings of school objects, and close synchronization of music with footsteps and movement.
+- [Liz and the Blue Bird Making Videos](https://liz-bluebird.com/news/?id=36) - The official thirteen-part making series covering concert and fairy-tale music, instrument animation, director Naoko Yamada, voice recording, chief animation supervision, decalcomania, paint, and photography.
+- [Liz and the Blue Bird Music Catalog](https://lantis.jp/title/52844c9148fac1284a0e2e47ab412f8e/all.html) - Lantis' official music catalog for the film, linking Homecomings' ending theme *Songbirds* and Kensuke Ushio's original soundtrack *girls,dance,staircase*.
+- [Naoko Yamada Director Interview](https://liz-bluebird.com/interview/) - An official interview on adapting Mizore and Nozomi's story, character design and acting choices, Reiko Yoshida's screenplay, performance reference, sound, and the film's music.
+
 ### Lucky Star
 
+- [Anime Pilgrimage and Local Tourism Promotion: An Experience of Washimiya Town, the Sacred Place for Anime "Lucky Star" Fans](https://eprints.lib.hokudai.ac.jp/repo/huscap/all/38541/) - A Hokkaido University research paper examining the development of *Lucky Star* pilgrimage, local tourism promotion, fan participation, and community response in Washimiya.
+- [Creating New Tourism Resources in Regions by Promoting "Anime Pilgrimages" by Anime Fans](https://group.kadokawa.co.jp/global/sustainability/project/animetourism.html) - KADOKAWA's case study of Washimiya explains how fans, local businesses, the production committee, and rights holders built a sustained tourism relationship around *Lucky Star*.
 - [Lucky Star Mikoshi](https://luckystar.wasimiya.com/ja/) - The long-running Washinomiya community project documenting the *Lucky Star* mikoshi, its history, artwork, annual procession, galleries, and fan participation.
 
 ### Miss Kobayashi's Dragon Maid
@@ -159,7 +170,6 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [Hibikilogy](https://hibikilogy.github.io/) - A Chinese-language collection of long-form research, criticism, adaptation studies, character analysis, and textual archaeology centered on *Sound! Euphonium* and its Kyoto Animation adaptation.
 - [Keihan Railway × Sound! Euphonium](https://www.keihan.co.jp/euphonium/) - The railway operator's recurring collaboration hub for the Uji-set series, including a stage-exploration map linking scenes and real-world locations around the city.
 - [Kyoto Animation and Hibike! Euphonium, From the Past to the Future](https://blog.sakugabooru.com/2024/07/19/kyoto-animation-and-hibike-euphonium-from-the-past-to-the-future-final-production-notes/) - Uses the conclusion of *Sound! Euphonium 3* to connect the series' production history, Uji setting, studio legacy, lost staff, and Kyoto Animation's post-2019 future.
-- [Liz and the Blue Bird Making Videos](https://liz-bluebird.com/news/?id=36) - The official thirteen-part making series covering concert and fairy-tale music, instrument animation, director Naoko Yamada, voice recording, chief animation supervision, decalcomania, paint, and photography.
 - [The Making of Sound! Euphonium's Performance Scenes](https://blog.sakugabooru.com/2017/04/10/the-making-of-sound-euphoniums-performance-scenes/) - Examines the reference performances, instrument accuracy, animation supervision, and production methods behind the series' concert scenes.
 
 ### Tamako Market
@@ -202,6 +212,7 @@ _Documented fan-maintained archives, databases, utilities, indexes, and other re
 
 _Substantive interviews, production commentary, criticism, academic work, and long-form research about Kyoto Animation, its creators, and its craft._
 
+- [Affective Transformation: Other-power and the Community of Peers in Works by Kyoto Animation](https://iopn.library.illinois.edu/journals/jams/article/view/878) - A scholarly article in the *Journal of Anime and Manga Studies* that develops a studio-wide thematic reading across *Haruhi Suzumiya*, *Beyond the Boundary*, *A Silent Voice*, and *Miss Kobayashi's Dragon Maid*.
 - [Animétudes: Kyoto Animation](https://animetudes.com/tag/kyoto-animation/) - Collects long-form writing on Kyoto Animation's aesthetics, directors, animation history, and individual works as part of a broader animation-research publication.
 - [Kyoto Animation Research Bibliography](https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000324241) - A National Diet Library reference case assembling books, papers, and articles for researching Kyoto Animation and several of its major works.
 - [Kyoto Animation's History in Communicating With Fans](https://blog.sakugabooru.com/2019/11/05/kyoto-animations-history-in-communicating-with-fans-the-anibaka-staff-blog/) - Reconstructs the history and role of Kyoto Animation's long-running Anibaka staff blog as a window into studio culture and direct communication with fans.
