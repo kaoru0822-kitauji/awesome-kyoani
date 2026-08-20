@@ -13,16 +13,20 @@ Kyoto Animation is a Japanese animation studio producing television series, film
 - [Pilgrimage and Locations](#pilgrimage-and-locations)
 - [Works](#works)
   - [A Silent Voice](#a-silent-voice)
+  - [AIR](#air)
   - [Amagi Brilliant Park](#amagi-brilliant-park)
   - [Beyond the Boundary](#beyond-the-boundary)
   - [CITY The Animation](#city-the-animation)
+  - [CLANNAD](#clannad)
   - [Free!](#free)
   - [Hyouka](#hyouka)
+  - [Kanon](#kanon)
   - [K-On!](#k-on)
   - [Love, Chunibyo & Other Delusions](#love-chunibyo--other-delusions)
   - [Liz and the Blue Bird](#liz-and-the-blue-bird)
   - [Lucky Star](#lucky-star)
   - [Miss Kobayashi's Dragon Maid](#miss-kobayashis-dragon-maid)
+  - [Munto](#munto)
   - [Nichijou](#nichijou)
   - [Sound! Euphonium](#sound-euphonium)
   - [Tamako Market](#tamako-market)
@@ -73,6 +77,7 @@ _High-quality resources about directors, animators, designers, writers, and othe
 - [Commanding KyoAni's Animation: Character Designers & Chief Supervisors Roundtable](https://blog.sakugabooru.com/2020/07/22/commanding-kyoanis-animation-character-designers-chief-supervisors-roundtable/) - A translated roundtable with Kyoto Animation's character designers and chief animation supervisors about design, supervision, training, and the studio's animation culture.
 - [Creators' Diary](https://www.kyotoanimation.co.jp/diary/) - An official ongoing diary by Kyoto Animation staff, with posts about studio life, current productions, animation work, and creator perspectives.
 - [KyoAni CTFK 2013 Directors' Dialogue Event](https://ultimatemegax.wordpress.com/2013/12/20/kyoani-ctfk-2013-directors-dialogue-event-translated/) - An English translation of a Kyoto Animation event panel with Tatsuya Ishihara, Yasuhiro Takemoto, and Naoko Yamada discussing directing, collaboration, location scouting, and each other's work.
+- [KyoAni Roundtable at the 2011 Japan Cultural Affairs Department Kyoto Art Festival](https://ultimatemegax.wordpress.com/2013/08/05/2011-japan-cultural-affairs-department-kyoto-art-festival-kyoani-roundtable/) - An English translation of a public conversation with Yasuhiro Takemoto, Yoshiji Kigami, and Taichi Ishidate about entering animation, production standards, location scouting, mentoring, *Munto*, and *Nichijou*.
 - [KyoAni's Current Osaka Leaders: Eisaku Kawanami x Takuya Yamamura Interview](https://blog.sakugabooru.com/2020/07/20/kyoanis-current-osaka-leaders-eisaku-kawanami-x-takuya-yamamura-interview/) - A translated interview on the directors' career paths, Animation Do, directing responsibilities, and their evolving roles within Kyoto Animation.
 - [KyoAni's Present and Future: Naoko Yamada and Haruka Fujita Interview](https://blog.sakugabooru.com/2020/07/21/kyoanis-present-and-future-naoko-yamada-and-haruka-fujita-interview/) - A translated conversation between two directors about their creative development, studio culture, collaboration, and the next generation of Kyoto Animation filmmakers.
 - [Naoko Yamada Interviews](https://onnanokantoku.wordpress.com/english-translated-interviews/naoko-yamada-interviews/) - An English index of translated interviews with Yamada spanning *K-On!*, *Tamako*, *Sound! Euphonium*, *A Silent Voice*, *Liz and the Blue Bird*, and related work.
@@ -107,6 +112,11 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [A Silent Voice - Scriptwriter Reiko Yoshida Interview](https://ultimatemegax.wordpress.com/2019/07/22/a-silent-voice-scriptwriter-reiko-yoshida-interview/) - A translated interview from Kyoto Animation's making-of book about adapting the manga, representing deafness in animation, structuring the screenplay, and working with director Naoko Yamada.
 - [Naoko Yamada Director Interview](https://www.mext.go.jp/koenokatachi/interview.htm) - A Japanese-language Ministry of Education interview with Yamada about depicting deafness, bullying, sound, communication, and the film's direction.
 
+### AIR
+
+- [AIR Kyoto Animation Studio Report](https://www.tbs.co.jp/anime/air/special/special9.html) - A Japanese-language first-party visit to the series' Kyoto Animation production floor, documenting drawing correction, staff meetings, background painting, digital finishing, storyboarding, and working materials.
+- [AIR Production Staff Comments](https://www.tbs.co.jp/anime/air/special/specialstcom.html) - A Japanese-language official archive of comments from director Tatsuya Ishihara and staff across writing, design, art, color, animation, effects, photography, and episode direction.
+
 ### Amagi Brilliant Park
 
 - [Amagi Brilliant Park Staff Interview: Producer Yoshihisa Nakayama](https://ultimatemegax.wordpress.com/2015/10/22/amagi-brilliant-park-staff-interviews-producer-yoshihisa-nakayama/) - A translated guidebook interview about the adaptation's planning, collaboration among Kyoto Animation, TBS, Shouji Gatou, and director Yasuhiro Takemoto, and the production team's approach to original material.
@@ -120,6 +130,10 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [CITY The Animation Production Notes](https://city-the-animation.com/special/production-note/) - The official thirteen-part retrospective by director Taichi Ishidate on the series' creative and production choices, including music, voices, timing, openings, endings, and effects.
 - [CITY: The Animation Final Production Notes and Kyoto Animation's Future](https://blog.sakugabooru.com/2025/09/29/city-the-animation-final-production-notes-and-kyoto-animations-future/) - Examines the production's final stretch, its animation and design approach, and what the project suggests about Kyoto Animation's next generation.
 
+### CLANNAD
+
+- [CLANNAD Production Staff Comments](https://www.tbs.co.jp/clannad/clannad1/06special/special.html) - A Japanese-language official archive with series leadership and episode-by-episode comments from directors, animators, art, color, photography, and in-betweening staff.
+
 ### Free!
 
 - [Free! Guidebook Interview: Hiroko Utsumi x Futoshi Nishiya](https://ultimatemegax.wordpress.com/2013/09/01/free-guidebook-interview-hiroko-utsumi-x-futoshi-nishiya-part-1/) - A translated guidebook interview on adapting *High Speed!*, aging the cast for the anime, swimming reference, character design, and the production's visual priorities.
@@ -129,6 +143,10 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 - [Hida Takayama Hyouka Pilgrimage Course](https://www.hidatakayama.or.jp/modelCourse/detail_35.html) - The official Takayama tourism guide's two-day route through locations used as models for *Hyouka*, with maps, episode references, transit, and nearby sights.
 - [Hyouka Roundtable: Yasuhiro Takemoto x Shouji Gatou, Otona Animedia #5 2012 (Part 1)](https://blog.sakugabooru.com/2017/11/03/hyouka-roundtable-yasuhiro-takemoto-x-shouji-gatou-otona-animedia-5-2012-part-1/) - The first part of a translated roundtable with director Yasuhiro Takemoto and series composition collaborator Shouji Gatou on the adaptation and its production.
+
+### Kanon
+
+- [Kanon Production Staff Comments](https://www.tbs.co.jp/anime/kanon/06special/special.html) - A Japanese-language official archive containing director and character-designer comments plus episode-by-episode notes from storyboarding, animation direction, key animation, in-betweening, color, backgrounds, photography, and effects staff.
 
 ### K-On!
 
@@ -159,6 +177,10 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [Kyoto Animation's Youthful Comeback: Miss Kobayashi's Dragon Maid S 01 Production Notes and New Studio Commercials](https://blog.sakugabooru.com/2021/07/08/kyoto-animations-youthful-comeback-miss-kobayashis-dragon-maid-s-01-production-notes-and-new-studio-commercials/) - Examines the sequel's first episode, emerging staff generation, production approach, and the studio's return to television animation after 2019.
 - [Rebuilding Kyoto Animation's Unique Production Pipeline: Miss Kobayashi's Dragon Maid S Production Notes 03-12](https://blog.sakugabooru.com/2021/09/26/rebuilding-kyoto-animations-unique-production-pipeline-miss-kobayashis-dragon-maid-s-production-notes-03-12/) - A season-spanning production study of the sequel's later episodes, staff rotation, animation strengths, and the rebuilt studio pipeline behind the series.
 
+### Munto
+
+- [Munto History Book](https://www.kyotoanimation.co.jp/munto/book/) - Kyoto Animation's official guide to its early original project, documenting more than 500 proposal, planning, setting, process, and rejected-design materials from across the series.
+
 ### Nichijou
 
 - [Awesome Nichijou](https://github.com/chius-me/awesome-nichijou) - Curated resources for *Nichijou*, including official sources, references, music, communities, fan projects, and commentary.
@@ -180,8 +202,11 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 ### The Melancholy of Haruhi Suzumiya
 
 - [Anime Tourism: The Melancholy of Haruhi Suzumiya](https://anime-tourism.jp/t/19/) - The Anime Tourism Association's work-specific pilgrimage page for the Nishinomiya setting, with mapped locations and tourism references.
+- [Haruhi Suzumiya Production Interview Bibliography](https://note.com/yaoraise2/n/n4bf935b68c9c) - A Japanese-language index of magazine issues and page numbers for production interviews and comments spanning the television series, *The Disappearance of Haruhi Suzumiya*, and the animated spin-offs.
+- [SOS Brigade in Nishinomiya](https://haruhi.info/) - A long-running local community hub documenting the series' relationship with Nishinomiya, its pilgrimage map and supporting app, and the history of local fan activities.
 - [The Disappearance of Haruhi Suzumiya Chief Animation Director Dialogue](https://ultimatemegax.wordpress.com/2015/12/14/the-disappearance-of-haruhi-suzumiya-interviews-chief-animation-director-dialogue/) - A translated dialogue with Shoko Ikeda and Futoshi Nishiya about character design, animation supervision, expressions, and the film's detailed animation process.
 - [The Disappearance of Haruhi Suzumiya Director Roundtable](https://ultimatemegax.wordpress.com/2015/12/16/the-disappearance-of-haruhi-suzumiya-interviews-director-roundtable/) - A translated roundtable with Tatsuya Ishihara, Yasuhiro Takemoto, and Noriko Takao on adapting the novel, storyboarding, character expression, and the film's visual direction.
+- [The Study about the Media Mix of Light Novel](https://doi.org/10.15755/jfs.2017..40.345) - A Korean-language scholarly article with an English abstract examining the adaptation's broadcast order, metanarrative framing, location realism, pilgrimage, and participatory culture.
 
 ### Tsurune
 
