@@ -57,11 +57,14 @@ _Structured references for Kyoto Animation works, credits, releases, staff, and 
 - [allcinema: Kyoto Animation](https://www.allcinema.net/person/278452) - A Japanese film database profile with a Kyoto Animation filmography and linked home-video release records.
 - [Bangumi: Kyoto Animation](https://bgm.tv/person/2481) - A Chinese-language studio profile with Kyoto Animation works, current and former staff affiliations, and collaboration relationships.
 - [Kyoto Animation Wiki](https://kyotoanimation.fandom.com/wiki/Kyoto_Animation_Wiki) - A collaborative English-language encyclopedia covering Kyoto Animation and Animation Do works, creators, characters, and studio history.
+- [Media Arts Database](https://mediaarts-db.artmuseums.go.jp/) - Japan's official cross-media catalog for animation works, episodes, related materials, holdings, and preservation metadata, with reusable datasets and an API.
 
 ## Production and Animation
 
 _Resources about Kyoto Animation's production process, animation craft, direction, cinematography, color, backgrounds, compositing, and related techniques._
 
+- [KyoAni & Do Staff Roundtable: We Are Here Now!!](https://chatterboxzine.wixsite.com/chatterbox/single-post/2015/12/24/%E3%80%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%80%91%E4%BA%AC%E3%82%A2%E3%83%8B%EF%BC%86do%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8C%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E3%80%81%E3%81%84%E3%81%BE%EF%BC%81%EF%BC%81%E3%80%8D%E3%80%82%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%BA%A7%E8%AB%87%E4%BC%9A%EF%BC%81) - A detailed report from the 2015 fan event on Animation Do's origins and staffing, production roles, in-house collaboration, recruitment, and creator career paths.
+- [KyoAni CTFK 2013 Producers' Discussion](https://ultimatemegax.wordpress.com/2013/12/22/ctfk-2013-kyoani-pony-canyon-and-lantis-producers-discussion-translated/) - A translated panel with Kyoto Animation, Pony Canyon, and Lantis producers about Animation Do's role, production planning, location scouting, music, packaging, and the studio's direct-to-fan model.
 - [Kyoto Animation Business Overview](https://www.kyotoanimation.co.jp/company/business/) - The studio's official overview of its in-house animation pipeline, merchandise development, publishing, and professional training operations.
 - [Kyoto Animation CM Library](https://www.kyotoanimation.co.jp/company/cm/) - An official archive of Kyoto Animation's corporate animated commercials, with broadcast dates and individual video entries.
 - [Kyoto Animation's Ever-Evolving In-House Culture](https://blog.sakugabooru.com/2023/03/03/kyoto-animation-growth-tsurune/) - Examines the studio's post-2019 rebuilding, self-sufficient production culture, mentorship, and the growth of a new generation of storytellers through *Tsurune: The Linking Shot*.
@@ -116,6 +119,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 - [AIR Kyoto Animation Studio Report](https://www.tbs.co.jp/anime/air/special/special9.html) - A Japanese-language first-party visit to the series' Kyoto Animation production floor, documenting drawing correction, staff meetings, background painting, digital finishing, storyboarding, and working materials.
 - [AIR Production Staff Comments](https://www.tbs.co.jp/anime/air/special/specialstcom.html) - A Japanese-language official archive of comments from director Tatsuya Ishihara and staff across writing, design, art, color, animation, effects, photography, and episode direction.
+- [AIR SUMMER Special Creators Interview](https://www.tbs.co.jp/anime/air/special/special38.html) - An official interview with director Tatsuya Ishihara and screenwriter Fumihiko Shimo about adapting the visual novel, the series' character acting, and the additional *AIR in Summer* episodes.
 
 ### Amagi Brilliant Park
 
@@ -132,6 +136,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### CLANNAD
 
+- [CLANNAD AFTER STORY Production Staff Comments](https://www.tbs.co.jp/clannad/06special/staffcomments.html) - A Japanese-language official archive with season-spanning comments from directors, animators, art, color, photography, effects, settings, and in-betweening staff.
 - [CLANNAD Production Staff Comments](https://www.tbs.co.jp/clannad/clannad1/06special/special.html) - A Japanese-language official archive with series leadership and episode-by-episode comments from directors, animators, art, color, photography, and in-betweening staff.
 
 ### Free!
@@ -150,6 +155,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### K-On!
 
+- [K-On! Production Staff Comments](https://www.tbs.co.jp/anime/k-on/k-on_tv/special/special.html) - The official index to first- and second-season commentary from directors, animation supervisors, animators, writers, art, color, photography, and other production staff.
 - [K-On! Staff Blog](https://www.tbs.co.jp/anime/k-on/k-on_tv/blog/blog.html) - The official production-era TBS blog with posts from director Naoko Yamada and other staff alongside production, music, release, and event notes.
 - [K-On! Staff Interviews: Naoko Yamada x Reiko Yoshida](https://ultimatemegax.wordpress.com/2016/01/07/k-on-staff-interviews-pt-1-director-naoko-yamada-series-composer-reiko-yoshida-dialogue/) - A translated dialogue between the director and series composer on adaptation choices, adolescence as the series' theme, character writing, and the staff's approach to everyday life.
 - [Toyosato Elementary School Old School Buildings](https://global.biwako-visitors.jp/things-to-do/22079/) - Shiga's official travel guide to the preserved school buildings used as a setting reference for *K-On!*, including access and tour information.
@@ -192,7 +198,9 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 - [Hibikilogy](https://hibikilogy.github.io/) - A Chinese-language collection of long-form research, criticism, adaptation studies, character analysis, and textual archaeology centered on *Sound! Euphonium* and its Kyoto Animation adaptation.
 - [Keihan Railway × Sound! Euphonium](https://www.keihan.co.jp/euphonium/) - The railway operator's recurring collaboration hub for the Uji-set series, including a stage-exploration map linking scenes and real-world locations around the city.
 - [Kyoto Animation and Hibike! Euphonium, From the Past to the Future](https://blog.sakugabooru.com/2024/07/19/kyoto-animation-and-hibike-euphonium-from-the-past-to-the-future-final-production-notes/) - Uses the conclusion of *Sound! Euphonium 3* to connect the series' production history, Uji setting, studio legacy, lost staff, and Kyoto Animation's post-2019 future.
+- [Sound! Euphonium Episode Staff Comments](https://tv.anime-eupho.com/story/) - The official first-season episode archive pairing detailed credits with first-hand comments from directors, animation supervisors, animators, art, color, photography, and other staff.
 - [The Making of Sound! Euphonium's Performance Scenes](https://blog.sakugabooru.com/2017/04/10/the-making-of-sound-euphoniums-performance-scenes/) - Examines the reference performances, instrument accuracy, animation supervision, and production methods behind the series' concert scenes.
+- [The Regional Utilization Model of Content in "Anime Sacred Sites"](https://doi.org/10.14866/ajg.2025s.0_139) - A Japanese-language Association of Japanese Geographers study of the sustained Uji ecosystem involving Kyoto Animation, local government, rail, merchants, universities, and fan musicians.
 
 ### Tamako Market
 
