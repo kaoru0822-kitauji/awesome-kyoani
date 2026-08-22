@@ -1,0 +1,83 @@
+name: Report an entry update
+description: Report a broken, moved, inaccessible, inaccurate, duplicated, or superseded entry.
+title: "[Entry update] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Existing entry name or URL
+    validations:
+      required: true
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: What changed?
+      options:
+        - Link is broken or inaccessible
+        - Resource moved or was renamed
+        - Description is inaccurate or outdated
+        - Placement or duplication problem
+        - Copyright or authorization concern
+        - Successor or replacement exists
+        - Resource should be removed or retained historically
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Details and evidence
+      description: Describe what you observed and include supporting links when available.
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement HTTPS URL
+      description: Write “Not applicable” when no replacement is proposed.
+    validations:
+      required: true
+  - type: textarea
+    id: relevance_users
+    attributes:
+      label: Relevance and intended users
+      description: For a replacement, explain its Kyoto Animation relevance and users. Otherwise write “Not applicable.”
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language or languages
+      description: For a replacement, list its languages. Otherwise write “Not applicable.”
+    validations:
+      required: true
+  - type: input
+    id: source_type
+    attributes:
+      label: Source type
+      description: For a replacement, identify its source type. Otherwise write “Not applicable.”
+    validations:
+      required: true
+  - type: textarea
+    id: value_access
+    attributes:
+      label: Distinct value and access limitations
+      description: For a replacement, explain its distinct value and access limits. Otherwise write “Not applicable.”
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Disclose your relationship to the affected or replacement resource. Write “None” when not applicable.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Copyright and contribution confirmation
+      options:
+        - label: Any proposed replacement does not primarily redistribute unauthorized copyrighted material.
+          required: true
+        - label: My submitted catalog text may be distributed under this repository's CC0 license.
+          required: true

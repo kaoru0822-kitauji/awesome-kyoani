@@ -248,7 +248,7 @@ _Substantive interviews, production commentary, criticism, academic work, and lo
 
 ## Contributing
 
-Contributions are welcome. Please read the [contribution guidelines](contributing.md) before opening a pull request.
+Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) and [editorial policy](EDITORIAL.md) before opening a pull request.
 
 ## Footnotes
 
