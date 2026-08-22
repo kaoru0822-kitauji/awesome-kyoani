@@ -34,7 +34,6 @@ Kyoto Animation is a Japanese animation studio producing television series, film
   - [Tsurune](#tsurune)
   - [Violet Evergarden](#violet-evergarden)
 - [Communities](#communities)
-- [Fan Projects and Tools](#fan-projects-and-tools)
 - [Essays, Interviews, and Research](#essays-interviews-and-research)
 
 ## Official Resources
@@ -56,7 +55,6 @@ _Structured references for Kyoto Animation works, credits, releases, staff, and 
 
 - [allcinema: Kyoto Animation](https://www.allcinema.net/person/278452) - A Japanese film database profile with a Kyoto Animation filmography and linked home-video release records.
 - [Bangumi: Kyoto Animation](https://bgm.tv/person/2481) - A Chinese-language studio profile with Kyoto Animation works, current and former staff affiliations, and collaboration relationships.
-- [Kyoto Animation Wiki](https://kyotoanimation.fandom.com/wiki/Kyoto_Animation_Wiki) - A collaborative English-language encyclopedia covering Kyoto Animation and Animation Do works, creators, characters, and studio history.
 
 ## Production and Animation
 
@@ -87,7 +85,7 @@ _High-quality resources about directors, animators, designers, writers, and othe
 _Books, magazines, official publications, catalogs, and bibliographic resources related to Kyoto Animation and its production work._
 
 - [KA Esuma Bunko](https://www.kyotoanimation.co.jp/books/) - Kyoto Animation's official publishing label, with news, book listings, title sites, author and creator features, and release information.
-- [Kyoto Animation: A Critical Study and Filmography](https://books.google.com/books?id=wWmZRGfqIBcC) - Dani Cavallaro's English-language book on the studio's creative philosophy, production values, technical experimentation, and filmography through 2012.
+- [Kyoto Animation: A Critical Study and Filmography](https://books.google.com/books?id=wWmZRGfqIBcC) - A bibliographic record and limited preview of Dani Cavallaro's English-language book on the studio's creative philosophy, production values, technical experimentation, and filmography through 2012; full access varies by region and account.
 - [Kyoto Animation Awards](https://www.kyotoanimation.co.jp/kyoani_award/) - The official archive of the studio's literary awards, past winning works, and published award recipients.
 
 ## Music and Audio
@@ -158,7 +156,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 
 ### Liz and the Blue Bird
 
-- [Dis/joint: Unification of Sound, Music, Narrative, and Animation in Liz and the Blue Bird](https://doi.org/10.5749/mech.13.2.0026) - Paul Ocone's 2021 _Mechademia: Second Arc_ article examining the film through the integration of sound, music, narrative, and animation.
+- [Dis/joint: Unification of Sound, Music, Narrative, and Animation in Liz and the Blue Bird](https://doi.org/10.5749/mech.13.2.0026) - Paul Ocone's 2021 _Mechademia: Second Arc_ article examining the film through the integration of sound, music, narrative, and animation; full text may require JSTOR or institutional access.
 - [Kensuke Ushio Interview on Liz and the Blue Bird](https://www.lisani.jp/0000075376/) - A Japanese-language interview with the composer on the film's concept work, decalcomania-derived score, recordings of school objects, and close synchronization of music with footsteps and movement.
 - [Liz and the Blue Bird Director Interview with Naoko Yamada](https://liz-bluebird.com/interview/) - An official interview on adapting Mizore and Nozomi's story, character design and acting choices, Reiko Yoshida's screenplay, performance reference, sound, and the film's music.
 - [Liz and the Blue Bird Making Videos](https://liz-bluebird.com/news/?id=36) - The official thirteen-part making series covering concert and fairy-tale music, instrument animation, director Naoko Yamada, voice recording, chief animation supervision, decalcomania, paint, and photography.
@@ -228,12 +226,6 @@ _Established communities, fan organizations, events, and collaborative resources
 - [KyoAni.cn](https://kyoani.cn/) - A Chinese-language Kyoto Animation fan hub linking community projects, fan events, pilgrimage resources, research, and other KyoAni-focused initiatives.
 - [Kyoto Animation Hosted Events](https://www.kyotoanimation.co.jp/en/company/event/) - The official history of Kyoto Animation-hosted fan events, including the Kyoto Animation Thanks Event and earlier KyoAni & Do Fan Days.
 - [r/KyoAni](https://www.reddit.com/r/KyoAni/) - An English-speaking community for studio-wide Kyoto Animation news, discussion, questions, recommendations, and fan activity.
-
-## Fan Projects and Tools
-
-_Documented fan-maintained archives, databases, utilities, indexes, and other reusable projects with a clear Kyoto Animation focus._
-
-- [KyoAni Web Archive](https://github.com/kyoani-cn/archive.kyoani.cn) - A community preservation tool for archiving Kyoto Animation-related web pages with capture metadata and a reviewed multilingual translation layer.
 
 ## Essays, Interviews, and Research
 
