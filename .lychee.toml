@@ -5,6 +5,8 @@ timeout = 20
 user_agent = "Mozilla/5.0 (compatible; AwesomeKyoAniLinkChecker/0.2; +https://github.com/kaoru0822-kitauji/awesome-kyoani)"
 
 exclude = [
+  # Verified in a browser on 2026-08-22; the KCI landing page intermittently returns 400 to automation.
+  '^https://doi\.org/10\.15755/jfs\.2017\.\.40\.345$',
   # Verified in a browser on 2026-08-22; this community site resets automated connections.
   '^https://kyoani\.cn/$',
   # Verified in a browser on 2026-08-22; Reddit rejects unauthenticated link-check requests.
