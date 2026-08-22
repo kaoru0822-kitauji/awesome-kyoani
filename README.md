@@ -87,9 +87,11 @@ _High-quality resources about directors, animators, designers, writers, and othe
 
 _Books, magazines, official publications, catalogs, and bibliographic resources related to Kyoto Animation and its production work._
 
+- [Hagureboshi no Uta Illustrator and Writer Interview](https://www.kyotoanimation.co.jp/muse-labo/hagureboshi/interview/) - A Japanese-language first-party conversation with visual artist Shiori Yamazaki and writer Ayano Sato about developing the studio's music-backed picture book through story, visual-world, character, and instrument design.
 - [KA Esuma Bunko](https://www.kyotoanimation.co.jp/books/) - Kyoto Animation's official publishing label, with news, book listings, title sites, author and creator features, and release information.
 - [Kyoto Animation: A Critical Study and Filmography](https://books.google.com/books?id=wWmZRGfqIBcC) - A bibliographic record and limited preview of Dani Cavallaro's English-language book on the studio's creative philosophy, production values, technical experimentation, and filmography through 2012; full access varies by region and account.
 - [Kyoto Animation Awards](https://www.kyotoanimation.co.jp/kyoani_award/) - The official archive of the studio's literary awards, past winning works, and published award recipients.
+- [MOON FIGHTERS! Illustration Staff Roundtable](https://www.kyotoanimation.co.jp/books/moonfighters/special-talk/) - A Japanese-language first-party discussion with three Kyoto Animation staff members about character and costume design, color development, background painting, research, and collaboration on the KA Esuma Bunko novel's illustrations.
 
 ## Music and Audio
 
@@ -147,6 +149,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 ### Hyouka
 
 - [Hida Takayama Hyouka Pilgrimage Course](https://www.hidatakayama.or.jp/modelCourse/detail_35.html) - The official Takayama tourism guide's two-day route through locations used as models for _Hyouka_, with maps, episode references, transit, and nearby sights.
+- [Hyouka Episode Staff Comments](https://www.kyotoanimation.co.jp/kotenbu/interview/) - A Japanese-language first-party archive of comments for all 22 episodes from directors, writers, animation supervisors, animators, background, color, photography, and other production staff.
 - [Hyouka Roundtable: Yasuhiro Takemoto x Shouji Gatou, Otona Animedia #5 2012 (Part 1)](https://blog.sakugabooru.com/2017/11/03/hyouka-roundtable-yasuhiro-takemoto-x-shouji-gatou-otona-animedia-5-2012-part-1/) - The first part of a translated roundtable with director Yasuhiro Takemoto and series composition collaborator Shouji Gatou on the adaptation and its production.
 
 ### Kanon
