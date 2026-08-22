@@ -1,5 +1,9 @@
 # Awesome KyoAni [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome KyoAni — a curated Kyoto Animation resource list](assets/awesome-kyoani-banner.svg)
+
+Awesome KyoAni is an independent, fan-maintained resource list and is not affiliated with Kyoto Animation.
+
 Kyoto Animation is a Japanese animation studio producing television series, films, original publications, and related media.
 
 ## Contents
