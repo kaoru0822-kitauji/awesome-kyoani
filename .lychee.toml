@@ -5,6 +5,12 @@ timeout = 20
 user_agent = "Mozilla/5.0 (compatible; AwesomeKyoAniLinkChecker/0.2; +https://github.com/kaoru0822-kitauji/awesome-kyoani)"
 
 exclude = [
+  # Verified in a browser on 2026-08-22; Fandom rejects automated requests.
+  '^https://kyotoanimation\.fandom\.com/wiki/Kyoto_Animation_Wiki$',
+  # Verified in a browser on 2026-08-22; this community site resets automated connections.
+  '^https://kyoani\.cn/$',
+  # Verified in a browser on 2026-08-22; Reddit rejects unauthenticated link-check requests.
+  '^https://www\.reddit\.com/r/KyoAni/$',
   # Verified in a browser on 2026-08-22; VGMdb returns a bot challenge to scripts.
   '^https://vgmdb\.net/org/1800$',
   # Verified as the official Ogaki guide on 2026-08-22; its TLS endpoint times out from automation.
