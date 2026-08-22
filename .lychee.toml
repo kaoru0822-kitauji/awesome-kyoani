@@ -1,0 +1,20 @@
+# External sites sometimes reject automated requests. Keep exclusions scoped to
+# one manually verified resource and record the verification date.
+max_retries = 3
+timeout = 20
+user_agent = "Mozilla/5.0 (compatible; AwesomeKyoAniLinkChecker/0.2; +https://github.com/kaoru0822-kitauji/awesome-kyoani)"
+
+exclude = [
+  # Verified in a browser on 2026-08-22; Fandom rejects automated requests.
+  '^https://kyotoanimation\.fandom\.com/wiki/Kyoto_Animation_Wiki$',
+  # Verified in a browser on 2026-08-22; this community site resets automated connections.
+  '^https://kyoani\.cn/$',
+  # Verified in a browser on 2026-08-22; Reddit rejects unauthenticated link-check requests.
+  '^https://www\.reddit\.com/r/KyoAni/$',
+  # Verified in a browser on 2026-08-22; VGMdb returns a bot challenge to scripts.
+  '^https://vgmdb\.net/org/1800$',
+  # Verified as the official Ogaki guide on 2026-08-22; its TLS endpoint times out from automation.
+  '^https://www\.ogakikanko\.jp/koenokatati/movie/english/$',
+  # Verified in a browser on 2026-08-22; this specific Wix article intermittently rejects automated TLS clients.
+  '^https://chatterboxzine\.wixsite\.com/chatterbox/single-post/2015/12/24/%E3%80%90%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%80%91%E4%BA%AC%E3%82%A2%E3%83%8B%EF%BC%86do%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%8C%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E3%80%81%E3%81%84%E3%81%BE%EF%BC%81%EF%BC%81%E3%80%8D%E3%80%82%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95%E5%BA%A7%E8%AB%87%E4%BC%9A%EF%BC%81$',
+]

@@ -177,7 +177,7 @@ _Resources dedicated to individual Kyoto Animation works. Work-specific entries 
 ### Miss Kobayashi's Dragon Maid
 
 - [Kyoto Animation's Youthful Comeback: Miss Kobayashi's Dragon Maid S 01 Production Notes and New Studio Commercials](https://blog.sakugabooru.com/2021/07/08/kyoto-animations-youthful-comeback-miss-kobayashis-dragon-maid-s-01-production-notes-and-new-studio-commercials/) - Examines the sequel's first episode, emerging staff generation, production approach, and the studio's return to television animation after 2019.
-- [Rebuilding Kyoto Animation's Unique Production Pipeline: Miss Kobayashi's Dragon Maid S Production Notes 03-12](https://blog.sakugabooru.com/2021/09/26/rebuilding-kyoto-animations-unique-production-pipeline-miss-kobayashis-dragon-maid-s-production-notes-03-12/) - A season-spanning production study of the sequel's later episodes, staff rotation, animation strengths, and the rebuilt studio pipeline behind the series.
+- [Rebuilding Kyoto Animation's Unique Production Pipeline: Miss Kobayashi's Dragon Maid S Production Notes 03-12](https://blog.sakugabooru.com/2021/10/31/rebuilding-kyoani-unique-pipeline-miss-kobayashis-dragon-maid-s-production-notes/) - A season-spanning production study of the sequel's later episodes, staff rotation, animation strengths, and the rebuilt studio pipeline behind the series.
 
 ### Munto
 
