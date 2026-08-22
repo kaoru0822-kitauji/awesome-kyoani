@@ -1,6 +1,8 @@
 # Awesome KyoAni [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Awesome KyoAni — a curated Kyoto Animation resource list](assets/awesome-kyoani-banner.svg)
+[![Kyoto Animation logo — visit the official website](assets/kyoani.png)](https://www.kyotoanimation.co.jp/en/)
+
+Kyoto Animation logo © Kyoto Animation Co., Ltd. Source: [official logo asset](https://www.kyotoanimation.co.jp/en/img/globalHeader/logo.png). Used for identification and not covered by this repository's CC0 dedication.
 
 Awesome KyoAni is an independent, fan-maintained resource list and is not affiliated with Kyoto Animation.
 
