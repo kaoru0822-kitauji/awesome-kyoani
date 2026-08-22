@@ -1,0 +1,87 @@
+name: Suggest a resource
+description: Propose a resource for the curated Awesome KyoAni catalog.
+title: "[Suggestion] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read CONTRIBUTING.md and EDITORIAL.md first. Popularity and recent activity are not requirements.
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      description: Use the canonical published name.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Canonical HTTPS URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Kyoto Animation relevance
+      description: Explain the direct, verifiable connection.
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Intended users and need
+      description: Who does this help, and what does it help them do or understand?
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Language or languages
+      description: Include documentation, interface, and content languages when they differ.
+    validations:
+      required: true
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Source type
+      options:
+        - Official or authoritative source
+        - Community resource
+        - Research, essay, or interview
+        - Catalog or database
+        - Book or publication
+        - Tool, fan project, or archive
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: distinct_value
+    attributes:
+      label: Distinct value
+      description: Explain what it adds beyond resources already listed.
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Access limitations
+      description: List login, payment, regional, software, or other limits. Write “None” when not applicable.
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: Disclose your relationship to the resource. Write “None” when not applicable.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Copyright and contribution confirmation
+      options:
+        - label: The resource does not primarily redistribute unauthorized copyrighted material.
+          required: true
+        - label: My submitted catalog text may be distributed under this repository's CC0 license.
+          required: true
