@@ -95,6 +95,7 @@ _Books, magazines, official publications, catalogs, and bibliographic resources 
 
 _Soundtrack catalogs, music references, composer resources, audio production material, and related databases._
 
+- [KyoAni Music Festival 2023 Official Report](https://kyoani-event.com/2023/officialreport/) - A Japanese-language first-party report documenting the two-day studio music festival, performers, repertoire, and the Kyoto Animation works represented.
 - [VGMdb: Kyoto Animation](https://vgmdb.net/org/1800) - Catalogs Kyoto Animation-associated albums, products, staff, and music-related publishing and production credits.
 
 ## Pilgrimage and Locations
